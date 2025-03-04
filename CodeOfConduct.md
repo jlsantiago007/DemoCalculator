@@ -1,2 +1,3 @@
 #Code of Conduct
-##Line2
+
+Line2
